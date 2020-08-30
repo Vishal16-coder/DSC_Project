@@ -1,1 +1,2 @@
 # DSC_Project
+Basic structure of this portfolio conatins home ,about,skills,work and contact section.It is a clean and nice web portfolio for designer or developer.This has all the basics which one want to show. At first we have my name ,links to social networks and image.Then the About section dsisplays more details about myself.Then the list of skills section.It also has a section where it shows some recent work.At bottom ,it ends with a footer.
